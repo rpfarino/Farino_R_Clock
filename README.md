@@ -1,3 +1,3 @@
 # Farino_R_Clock
-CS210 - Project One - Clock
-Written in C++.
+CS210 - Project One - Clock 
+written in C++.
